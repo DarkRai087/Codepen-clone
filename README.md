@@ -38,14 +38,6 @@ This repository hosts a clone of CodePen, a popular online coding playground. Th
 
 ###
 
-### Code Organization
-
-- The `index.html` file is structured using semantic HTML5 elements for clarity and accessibility.
-- The `styles/` directory follows a modular approach, with separate files for different components and a main stylesheet to import them.
-- JavaScript functionalities are organized into modules within the `scripts/` directory, promoting maintainability and readability.
-
-
-
 ## How to Run
 
 Clone the project
